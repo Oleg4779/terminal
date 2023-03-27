@@ -1,0 +1,9 @@
+{
+	"person_name": "Oleg",
+	"person_age": 33,
+	"person_devices": {
+				"device_1": "Xiaomi Redmi Note 8",
+				"device_2": "Nokia 3"
+	}
+	
+}
